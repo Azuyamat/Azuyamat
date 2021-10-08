@@ -1,14 +1,7 @@
-**[Azuyamat](https://devcard.link/oQuguL)**
+![github](https://img.shields.io/badge/Azuyamat-000000?style=for-the-badge&logo=GitHub&logoColor=white)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Azuyamat&show_icons=true&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=dark)
 
 
-
-[HTML5](https://html5.org/)
-
-[JS](https://developer.mozilla.org/en-US/docs/Web/JavaScript) `Next.js/React.js/Discord.js`
-
-[Python](https://www.python.org/)
-
-[Skript](https://dev.bukkit.org/projects/skript)
-
-[Java](https://www.spigotmc.org/) `Spigot [Minecraft Plugin Development]`
 
