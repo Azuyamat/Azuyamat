@@ -1,7 +1,5 @@
-![github](https://img.shields.io/badge/Azuyamat-000000?style=for-the-badge&logo=GitHub&logoColor=white)
+![github](https://cdn.discordapp.com/attachments/798033353474965545/905937656716873748/zuzubanner.png)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Azuyamat&show_icons=true&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=dark)
 
 
 
