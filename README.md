@@ -6,7 +6,7 @@
          <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/Azuyamat?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
 </p>
 
-![Azuyamat's GitHub stats](https://github-readme-stats.vercel.app/api?username=Azuyamat&show_icons=true) <br>
+<img alt="Github Streak Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=azuyamat&theme=chalk"/><br>
 
 # Websites
 ## [MHLogs](https://mhlogs.com)
