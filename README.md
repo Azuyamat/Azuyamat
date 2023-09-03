@@ -1,19 +1,30 @@
 ![github](https://media.discordapp.net/attachments/881363147364118528/1142610121697021952/background.png?width=1000&height=300)<br>
-<p align="left">
-      <a href="https://github.com/Azuyamat?tab=followers">
-         <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/Azuyamat?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
-      <a href="https://github.com/Azuyamat?tab=repositories">
-         <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/Azuyamat?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
-</p>
+___
+<p align="center">
+  <img alt="Github Streak Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=azuyamat&theme=chalk"/>
+</p><br>
 
-<img alt="Github Streak Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=azuyamat&theme=chalk"/><br>
+<p align="center">
+      
+</p><br>
+
 
 # Websites
-## [MHLogs](https://mhlogs.com)
+### [MHLogs](https://mhlogs.com)
 > Easily export your Minecraft server logs to view them in an intuitive UI with ability to share logs.
+```js
+Written using NextJS, Clerk and Vercel
+```
 
-## [SkriptLOL](https://skript.lol)
+### [SkriptLOL](https://skript.lol)
 > Documentation for SkriptLang.
+```js
+Written using SvelteKit and Supabase
+```
 
-## [Azuyamat](https://azuyamat.com)
+### [Azuyamat](https://azuyamat.com)
 > My developer portfolio.
+```js
+Written using NextJS
+```
+___
