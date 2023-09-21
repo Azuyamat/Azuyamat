@@ -1,7 +1,7 @@
 ![github](https://media.discordapp.net/attachments/881363147364118528/1142610121697021952/background.png?width=1000&height=300)<br>
 ___
 <p align="center">
-  <img alt="Github Streak Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=azuyamat&theme=chalk"/>
+  <img alt="Github Streak Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=azuyamat"/>
 </p><br>
 
 <p align="center">
