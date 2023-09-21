@@ -28,3 +28,5 @@ Written using SvelteKit and Supabase
 Written using NextJS
 ```
 ___
+
+<!--START_SECTION:waka--><!--END_SECTION:waka-->
