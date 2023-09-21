@@ -29,4 +29,14 @@ Written using NextJS
 ```
 ___
 
-<!--START_SECTION:waka-->WAKA<!--END_SECTION:waka-->
+<!--START_SECTION:waka-->
+
+```txt
+JavaScript       4 hrs 54 mins   ███████▓░░░░░░░░░░░░░░░░░   30.79 %
+CSS              4 hrs 34 mins   ███████▒░░░░░░░░░░░░░░░░░   28.75 %
+C#               4 hrs 20 mins   ██████▓░░░░░░░░░░░░░░░░░░   27.23 %
+HTML             1 hr 30 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.47 %
+JSON             18 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.94 %
+```
+
+<!--END_SECTION:waka-->
