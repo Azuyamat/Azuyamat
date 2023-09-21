@@ -29,4 +29,4 @@ Written using NextJS
 ```
 ___
 
-<!--START_SECTION:waka--><!--END_SECTION:waka-->
+<!--START_SECTION:waka-->WAKA<!--END_SECTION:waka-->
