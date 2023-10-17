@@ -10,11 +10,11 @@ ___
 <!--START_SECTION:waka-->
 
 ```txt
-Kotlin            39 hrs 10 mins  ███████████████████▓░░░░░   79.17 %
-Markdown          2 hrs 3 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.17 %
-ActionScript 3    1 hr 35 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.22 %
-Groovy            1 hr 34 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.19 %
-Gradle            1 hr 12 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.43 %
+Kotlin            39 hrs 58 mins  ████████████████████▒░░░░   81.39 %
+Markdown          1 hr 33 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.17 %
+Groovy            1 hr 24 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.86 %
+ActionScript 3    1 hr 20 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.75 %
+Gradle            1 hr 10 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.40 %
 ```
 
 <!--END_SECTION:waka-->
