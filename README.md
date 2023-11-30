@@ -7,6 +7,7 @@ ___
       <strong>Portfolio</strong> https://azuyamat.com
 </p><br>
 
+Stats not 100% accurate because WakaTime isn't installed on all my IDEs
 <!--START_SECTION:waka-->
 
 ```txt
