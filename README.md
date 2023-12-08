@@ -11,11 +11,11 @@ Stats not 100% accurate because WakaTime isn't installed on all my IDEs
 <!--START_SECTION:waka-->
 
 ```txt
-Rust             2 hrs 41 mins   ████████▓░░░░░░░░░░░░░░░░   34.38 %
-C#               2 hrs 34 mins   ████████▒░░░░░░░░░░░░░░░░   32.91 %
-JavaScript       1 hr 40 mins    █████▒░░░░░░░░░░░░░░░░░░░   21.37 %
-HTML             16 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.53 %
-CSS              16 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.41 %
+Rust             2 hrs 41 mins   ████████▒░░░░░░░░░░░░░░░░   33.95 %
+C#               2 hrs 34 mins   ████████░░░░░░░░░░░░░░░░░   32.50 %
+JavaScript       1 hr 40 mins    █████▒░░░░░░░░░░░░░░░░░░░   21.11 %
+HTML             22 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.73 %
+CSS              16 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.38 %
 ```
 
 <!--END_SECTION:waka-->
