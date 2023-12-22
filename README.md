@@ -11,11 +11,11 @@ Stats not 100% accurate because WakaTime isn't installed on all my IDEs
 <!--START_SECTION:waka-->
 
 ```txt
-Rust             18 hrs 54 mins  █████████████████▒░░░░░░░   69.75 %
-Vue.js           4 hrs 22 mins   ████░░░░░░░░░░░░░░░░░░░░░   16.16 %
-TOML             1 hr 27 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.39 %
-JSON             50 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.11 %
-Markdown         36 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.22 %
+Rust             16 hrs 18 mins  █████████████████░░░░░░░░   67.88 %
+Vue.js           4 hrs 22 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.22 %
+TOML             1 hr 25 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.92 %
+JSON             50 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.49 %
+Markdown         21 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.48 %
 ```
 
 <!--END_SECTION:waka-->
