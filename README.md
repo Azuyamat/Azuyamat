@@ -11,10 +11,11 @@ Stats not 100% accurate because WakaTime isn't installed on all my IDEs
 <!--START_SECTION:waka-->
 
 ```txt
-Go       3 mins          ██████████████░░░░░░░░░░░   56.15 %
-Rust     2 mins          ███████████░░░░░░░░░░░░░░   43.74 %
-go.mod   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 %
-TOML     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
+Rust             1 hr 4 mins     ███████████████████████▒░   93.93 %
+Go               3 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.48 %
+GitIgnore file   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.56 %
+TOML             0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
+go.mod           0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
 ```
 
 <!--END_SECTION:waka-->
