@@ -11,11 +11,11 @@ Stats not 100% accurate because WakaTime isn't installed on all my IDEs
 <!--START_SECTION:waka-->
 
 ```txt
-HTML             1 min           ███████████░░░░░░░░░░░░░░   44.06 %
-CSS              1 min           ██████▒░░░░░░░░░░░░░░░░░░   24.72 %
-Markdown         0 secs          ███▒░░░░░░░░░░░░░░░░░░░░░   12.84 %
-Rust             0 secs          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.04 %
-GitIgnore file   0 secs          ██░░░░░░░░░░░░░░░░░░░░░░░   08.08 %
+Kotlin           32 mins         ██████████████████████▒░░   89.16 %
+HTML             1 min           █▒░░░░░░░░░░░░░░░░░░░░░░░   05.33 %
+CSS              1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.99 %
+Markdown         0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.55 %
+GitIgnore file   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.98 %
 ```
 
 <!--END_SECTION:waka-->
