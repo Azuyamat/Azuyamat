@@ -11,11 +11,11 @@ Stats not 100% accurate because WakaTime isn't installed on all my IDEs
 <!--START_SECTION:waka-->
 
 ```txt
-Vue.js           21 hrs 6 mins   ██████████████▒░░░░░░░░░░   56.78 %
-Kotlin           6 hrs 59 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.80 %
-Rust             3 hrs 57 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.66 %
-JavaScript       1 hr 39 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.44 %
-JSON             1 hr 15 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.40 %
+Vue.js           16 hrs 36 mins  █████████████░░░░░░░░░░░░   52.43 %
+Kotlin           6 hrs 22 mins   █████░░░░░░░░░░░░░░░░░░░░   20.10 %
+Rust             2 hrs 29 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   07.84 %
+JavaScript       1 hr 59 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.28 %
+CSS              1 hr 34 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   04.96 %
 ```
 
 <!--END_SECTION:waka-->
