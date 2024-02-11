@@ -11,11 +11,11 @@ Stats not 100% accurate because WakaTime isn't installed on all my IDEs
 <!--START_SECTION:waka-->
 
 ```txt
-Kotlin           11 hrs 25 mins  ██████████████████▒░░░░░░   73.99 %
-HTML             2 hrs 32 mins   ████░░░░░░░░░░░░░░░░░░░░░   16.52 %
-TOML             1 hr 6 mins     █▓░░░░░░░░░░░░░░░░░░░░░░░   07.20 %
-C#               10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.15 %
-YAML             3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.42 %
+Kotlin           10 hrs 53 mins  ██████████████████▓░░░░░░   74.22 %
+HTML             2 hrs 32 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.38 %
+TOML             1 hr 4 mins     █▓░░░░░░░░░░░░░░░░░░░░░░░   07.33 %
+YAML             3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.44 %
+JavaScript       1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 %
 ```
 
 <!--END_SECTION:waka-->
