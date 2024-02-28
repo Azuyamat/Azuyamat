@@ -11,11 +11,11 @@ Stats not 100% accurate because WakaTime isn't installed on all my IDEs
 <!--START_SECTION:waka-->
 
 ```txt
-Kotlin           3 hrs 46 mins   █████████████████▓░░░░░░░   70.73 %
-PHP              20 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.52 %
-HTML             13 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.30 %
-Go               12 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.00 %
-Rust             12 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.88 %
+Kotlin           5 hrs 37 mins   ███████████████░░░░░░░░░░   60.42 %
+Vue.js           1 hr 45 mins    ████▓░░░░░░░░░░░░░░░░░░░░   18.83 %
+PHP              21 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.93 %
+HTML             14 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.62 %
+Go               12 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.29 %
 ```
 
 <!--END_SECTION:waka-->
