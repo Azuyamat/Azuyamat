@@ -11,11 +11,11 @@ Stats not 100% accurate because WakaTime isn't installed on all my IDEs
 <!--START_SECTION:waka-->
 
 ```txt
-Kotlin            13 hrs 44 mins  ███████████████████░░░░░░   75.89 %
-Vue.js            1 hr 45 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.68 %
-Groovy            56 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.20 %
-Gradle            52 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.87 %
-GitIgnore file    19 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.80 %
+Kotlin            11 hrs 1 min    █████████████████████░░░░   83.35 %
+Gradle            55 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.98 %
+Groovy            49 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.23 %
+GitIgnore file    14 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.82 %
+YAML              4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.62 %
 ```
 
 <!--END_SECTION:waka-->
