@@ -11,11 +11,10 @@ Stats not 100% accurate because WakaTime isn't installed on all my IDEs
 <!--START_SECTION:waka-->
 
 ```txt
-Kotlin            5 hrs 36 mins   ██████████████████████▒░░   89.00 %
-Gradle            23 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.20 %
-Groovy            14 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.80 %
-Text              1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.49 %
-GitIgnore file    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 %
+Kotlin   4 hrs 52 mins   ██████████████████████▓░░   90.93 %
+Groovy   14 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.44 %
+Gradle   13 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.06 %
+Text     1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.57 %
 ```
 
 <!--END_SECTION:waka-->
