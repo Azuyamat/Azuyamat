@@ -11,7 +11,10 @@ Stats not 100% accurate because WakaTime isn't installed on all my IDEs
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+CSS              19 mins         ████████████████████░░░░░   80.10 %
+HTML             4 mins          ████▒░░░░░░░░░░░░░░░░░░░░   17.26 %
+PHP              0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.20 %
+GitIgnore file   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.43 %
 ```
 
 <!--END_SECTION:waka-->
