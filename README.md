@@ -11,11 +11,11 @@ Stats not 100% accurate because WakaTime isn't installed on all my IDEs
 <!--START_SECTION:waka-->
 
 ```txt
-Kotlin                21 hrs 35 mins  █████████████████▒░░░░░░░   69.89 %
-Java                  3 hrs 12 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.37 %
-JSON                  2 hrs 2 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.62 %
-textmate              1 hr 20 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.33 %
-Groovy                43 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.33 %
+Kotlin                22 hrs 42 mins  ██████████████████░░░░░░░   71.34 %
+Java                  3 hrs 12 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.07 %
+JSON                  2 hrs 2 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.43 %
+textmate              1 hr 20 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.20 %
+Groovy                43 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.27 %
 ```
 
 <!--END_SECTION:waka-->
