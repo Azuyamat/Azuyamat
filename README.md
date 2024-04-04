@@ -11,11 +11,11 @@ Stats not 100% accurate because WakaTime isn't installed on all my IDEs
 <!--START_SECTION:waka-->
 
 ```txt
-Kotlin            11 hrs 14 mins  ████████████████▒░░░░░░░░   65.15 %
-TypeScript        3 hrs           ████▒░░░░░░░░░░░░░░░░░░░░   17.46 %
-JSON              1 hr 15 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   07.33 %
-GitIgnore file    18 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.75 %
-Gradle            16 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.55 %
+Kotlin            6 hrs 48 mins   ██████████░░░░░░░░░░░░░░░   40.33 %
+TypeScript        4 hrs 53 mins   ███████▒░░░░░░░░░░░░░░░░░   28.97 %
+Vue.js            1 hr 55 mins    ███░░░░░░░░░░░░░░░░░░░░░░   11.43 %
+JSON              1 hr 32 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.10 %
+TOML              21 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.17 %
 ```
 
 <!--END_SECTION:waka-->
