@@ -11,11 +11,9 @@ Stats not 100% accurate because WakaTime isn't installed on all my IDEs
 <!--START_SECTION:waka-->
 
 ```txt
-Java     1 hr 53 mins    ██████████████░░░░░░░░░░░   55.36 %
-Go       1 hr 7 mins     ████████▒░░░░░░░░░░░░░░░░   33.14 %
-Kotlin   17 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.52 %
-YAML     6 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.97 %
-go.mod   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
+YAML     0 secs          ██████████████▒░░░░░░░░░░   57.56 %
+Kotlin   0 secs          █████████▓░░░░░░░░░░░░░░░   38.77 %
+Java     0 secs          █░░░░░░░░░░░░░░░░░░░░░░░░   03.67 %
 ```
 
 <!--END_SECTION:waka-->
