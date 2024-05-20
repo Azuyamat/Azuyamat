@@ -11,9 +11,9 @@ Stats not 100% accurate because WakaTime isn't installed on all my IDEs
 <!--START_SECTION:waka-->
 
 ```txt
-YAML     0 secs          ██████████████▒░░░░░░░░░░   57.56 %
-Kotlin   0 secs          █████████▓░░░░░░░░░░░░░░░   38.77 %
-Java     0 secs          █░░░░░░░░░░░░░░░░░░░░░░░░   03.67 %
+YAML     0 secs          ████████████████████▓░░░░   82.41 %
+Java     0 secs          ███░░░░░░░░░░░░░░░░░░░░░░   11.77 %
+Kotlin   0 secs          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.82 %
 ```
 
 <!--END_SECTION:waka-->
