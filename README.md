@@ -11,11 +11,11 @@ Stats not 100% accurate because WakaTime isn't installed on all my IDEs
 <!--START_SECTION:waka-->
 
 ```txt
-Java              16 hrs 48 mins  ██████████████████▒░░░░░░   73.81 %
-Rust              3 hrs 45 mins   ████░░░░░░░░░░░░░░░░░░░░░   16.49 %
-Markdown          40 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.95 %
-Kotlin            30 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.21 %
-TypeScript        27 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.03 %
+Java              13 hrs 3 mins   ██████████████████████▒░░   89.96 %
+TypeScript        27 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.18 %
+Markdown          26 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.07 %
+Kotlin            12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.40 %
+Java Properties   8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.03 %
 ```
 
 <!--END_SECTION:waka-->
