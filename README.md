@@ -11,11 +11,11 @@ Stats not 100% accurate because WakaTime isn't installed on all my IDEs
 <!--START_SECTION:waka-->
 
 ```txt
-Java             10 hrs 8 mins   ██████████████████████▓░░   90.54 %
-TypeScript       27 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.12 %
-Markdown         26 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.97 %
-Kotlin           7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.06 %
-GitIgnore file   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 %
+Java             4 hrs 3 mins    ██████████████████████░░░   87.68 %
+Markdown         26 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.60 %
+Kotlin           7 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.56 %
+GitIgnore file   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 %
+YAML             0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 %
 ```
 
 <!--END_SECTION:waka-->
