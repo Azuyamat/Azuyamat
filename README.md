@@ -11,10 +11,9 @@ Stats not 100% accurate because WakaTime isn't installed on all my IDEs
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript   1 min           ███████████░░░░░░░░░░░░░░   43.73 %
-Bash         1 min           ██████████▒░░░░░░░░░░░░░░   40.75 %
-CSS          0 secs          ████░░░░░░░░░░░░░░░░░░░░░   15.39 %
-TSConfig     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 %
+Bash         1 min           ███████████████░░░░░░░░░░   59.50 %
+TypeScript   0 secs          ███████░░░░░░░░░░░░░░░░░░   28.19 %
+CSS          0 secs          ███░░░░░░░░░░░░░░░░░░░░░░   12.31 %
 ```
 
 <!--END_SECTION:waka-->
