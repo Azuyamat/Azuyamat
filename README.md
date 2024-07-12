@@ -11,11 +11,11 @@ Stats not 100% accurate because WakaTime isn't installed on all my IDEs
 <!--START_SECTION:waka-->
 
 ```txt
-Rust             38 mins         █████████░░░░░░░░░░░░░░░░   36.58 %
-TypeScript       25 mins         ██████░░░░░░░░░░░░░░░░░░░   24.03 %
-YAML             17 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.57 %
-CSS              13 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   12.78 %
-Docker           6 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.70 %
+Rust             2 hrs 33 mins   ████████████████▓░░░░░░░░   66.43 %
+TypeScript       25 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.84 %
+YAML             17 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.47 %
+CSS              13 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.76 %
+Docker           6 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.02 %
 ```
 
 <!--END_SECTION:waka-->
