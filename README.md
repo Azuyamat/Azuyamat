@@ -12,7 +12,7 @@ Stats not 100% accurate because WakaTime isn't installed on all my IDEs
 
 ```txt
 Rust             2 hrs 33 mins   ████████████████▓░░░░░░░░   66.43 %
-TypeScript       25 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.84 %
+TypeScript       25 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.83 %
 YAML             17 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.47 %
 CSS              13 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.76 %
 Docker           6 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.02 %
