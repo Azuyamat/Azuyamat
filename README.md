@@ -11,7 +11,7 @@ Stats not 100% accurate because WakaTime isn't installed on all my IDEs
 <!--START_SECTION:waka-->
 
 ```txt
-Go       35 mins         █████████████████████████   99.99 %
+Go       23 mins         █████████████████████████   99.99 %
 go.mod   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
 ```
 
