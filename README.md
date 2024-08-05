@@ -11,8 +11,10 @@ Stats not 100% accurate because WakaTime isn't installed on all my IDEs
 <!--START_SECTION:waka-->
 
 ```txt
-Go       23 mins         █████████████████████████   99.99 %
-go.mod   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
+TypeScript   4 mins          █████████████████████▓░░░   87.12 %
+Go           0 secs          ██░░░░░░░░░░░░░░░░░░░░░░░   07.45 %
+CSS          0 secs          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.32 %
+Makefile     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 %
 ```
 
 <!--END_SECTION:waka-->
