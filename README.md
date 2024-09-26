@@ -11,11 +11,11 @@ Stats not 100% accurate because WakaTime isn't installed on all my IDEs
 <!--START_SECTION:waka-->
 
 ```txt
-Rust             2 hrs 17 mins   ████████████░░░░░░░░░░░░░   48.64 %
-TOML             1 hr 7 mins     ██████░░░░░░░░░░░░░░░░░░░   23.84 %
-C++              57 mins         █████░░░░░░░░░░░░░░░░░░░░   20.40 %
-C                7 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.68 %
-TypeScript       6 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.36 %
+Rust             2 hrs 17 mins   █████████████░░░░░░░░░░░░   51.99 %
+TOML             1 hr 7 mins     ██████▒░░░░░░░░░░░░░░░░░░   25.48 %
+C++              46 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.48 %
+C                7 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.85 %
+Bash             4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.57 %
 ```
 
 <!--END_SECTION:waka-->
