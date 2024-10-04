@@ -11,11 +11,7 @@ Stats not 100% accurate because WakaTime isn't installed on all my IDEs
 <!--START_SECTION:waka-->
 
 ```txt
-C++              45 mins         █████████████████████▒░░░   85.77 %
-GitIgnore file   4 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.03 %
-C                1 min           █░░░░░░░░░░░░░░░░░░░░░░░░   03.56 %
-C#               0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.59 %
-Solution File    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
