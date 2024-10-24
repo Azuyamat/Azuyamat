@@ -11,7 +11,10 @@ Stats not 100% accurate because WakaTime isn't installed on all my IDEs
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Rust       15 mins         ███████████████████▓░░░░░   79.04 %
+C++        2 mins          ███░░░░░░░░░░░░░░░░░░░░░░   11.47 %
+C          1 min           █▓░░░░░░░░░░░░░░░░░░░░░░░   07.26 %
+Markdown   0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.23 %
 ```
 
 <!--END_SECTION:waka-->
