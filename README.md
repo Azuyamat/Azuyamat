@@ -11,9 +11,8 @@ Stats not 100% accurate because WakaTime isn't installed on all my IDEs
 <!--START_SECTION:waka-->
 
 ```txt
-Kotlin   2 hrs 18 mins   ███████████████████████▓░   95.30 %
-C++      6 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.65 %
-C        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 %
+Kotlin   19 mins         ████████████████████████▓   99.31 %
+C++      0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.69 %
 ```
 
 <!--END_SECTION:waka-->
