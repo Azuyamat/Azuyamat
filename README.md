@@ -11,11 +11,11 @@ Stats not 100% accurate because WakaTime isn't installed on all my IDEs
 <!--START_SECTION:waka-->
 
 ```txt
-C++              1 hr 52 mins    ██████████████▓░░░░░░░░░░   59.02 %
-C                1 hr 16 mins    ██████████░░░░░░░░░░░░░░░   39.99 %
-GitIgnore file   1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.91 %
-Vcxproj          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 %
-XML              0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
+C++              1 hr 52 mins    █████████████▓░░░░░░░░░░░   54.43 %
+C                1 hr 16 mins    █████████▒░░░░░░░░░░░░░░░   36.92 %
+Kotlin           10 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.16 %
+Java             5 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.58 %
+GitIgnore file   1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.84 %
 ```
 
 <!--END_SECTION:waka-->
