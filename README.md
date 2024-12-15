@@ -11,9 +11,7 @@ Stats not 100% accurate because WakaTime isn't installed on all my IDEs
 <!--START_SECTION:waka-->
 
 ```txt
-Java   1 hr 1 min      ██████████████████░░░░░░░   71.97 %
-C++    16 mins         █████░░░░░░░░░░░░░░░░░░░░   19.70 %
-C      7 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   08.33 %
+Java   1 hr 1 min      █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
