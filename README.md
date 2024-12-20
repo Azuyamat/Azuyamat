@@ -11,7 +11,10 @@ Stats not 100% accurate because WakaTime isn't installed on all my IDEs
 <!--START_SECTION:waka-->
 
 ```txt
-Java   1 hr 1 min      █████████████████████████   100.00 %
+Go                    37 mins         ██████████████████████▓░░   90.99 %
+HTTP Request          2 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.68 %
+JSON                  0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.33 %
+Cookie storage file   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 ```
 
 <!--END_SECTION:waka-->
