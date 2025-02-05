@@ -11,9 +11,7 @@ Stats not 100% accurate because WakaTime isn't installed on all my IDEs
 <!--START_SECTION:waka-->
 
 ```txt
-Text         1 hr 35 mins    ████████████████████████▒   97.82 %
-JavaScript   1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.56 %
-HTML         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.62 %
+Text   1 hr 35 mins    █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
