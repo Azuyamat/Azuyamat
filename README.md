@@ -11,7 +11,9 @@ Stats not 100% accurate because WakaTime isn't installed on all my IDEs
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+YAML    33 mins         ██████████▓░░░░░░░░░░░░░░   43.15 %
+Other   27 mins         ████████▓░░░░░░░░░░░░░░░░   35.08 %
+INI     16 mins         █████▒░░░░░░░░░░░░░░░░░░░   21.77 %
 ```
 
 <!--END_SECTION:waka-->
