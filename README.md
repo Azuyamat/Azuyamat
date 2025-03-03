@@ -11,11 +11,8 @@ Stats not 100% accurate because WakaTime isn't installed on all my IDEs
 <!--START_SECTION:waka-->
 
 ```txt
-Bash         1 hr 11 mins    ████████▒░░░░░░░░░░░░░░░░   33.62 %
-Docker       1 hr 5 mins     ███████▓░░░░░░░░░░░░░░░░░   30.64 %
-TypeScript   33 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.66 %
-Other        29 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.91 %
-Python       13 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.17 %
+TypeScript   33 mins         █████████████████████████   99.44 %
+Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.56 %
 ```
 
 <!--END_SECTION:waka-->
