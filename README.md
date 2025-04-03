@@ -11,11 +11,11 @@ Stats not 100% accurate because WakaTime isn't installed on all my IDEs
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript   2 hrs 21 mins   █████████████████████▒░░░   84.87 %
-Prisma       18 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.37 %
-CSS          2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.30 %
-JSON         1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.96 %
-textmate     1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.70 %
+TypeScript   3 hrs 51 mins   █████████████████████▒░░░   85.55 %
+Prisma       19 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.11 %
+CSS          15 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.82 %
+JSON         1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.59 %
+textmate     1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.43 %
 ```
 
 <!--END_SECTION:waka-->
