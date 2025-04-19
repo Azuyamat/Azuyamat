@@ -11,11 +11,7 @@ Stats not 100% accurate because WakaTime isn't installed on all my IDEs
 <!--START_SECTION:waka-->
 
 ```txt
-Python       5 mins          ███████████▓░░░░░░░░░░░░░   47.30 %
-SSH Config   5 mins          ███████████▓░░░░░░░░░░░░░   46.37 %
-Other        0 secs          █░░░░░░░░░░░░░░░░░░░░░░░░   04.09 %
-Public Key   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.39 %
-YAML         0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.85 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
