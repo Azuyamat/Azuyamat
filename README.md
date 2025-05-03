@@ -11,11 +11,11 @@ Stats not 100% accurate because WakaTime isn't installed on all my IDEs
 <!--START_SECTION:waka-->
 
 ```txt
-YAML                       7 hrs 3 mins    ███████▓░░░░░░░░░░░░░░░░░   30.01 %
-C++                        3 hrs 57 mins   ████▒░░░░░░░░░░░░░░░░░░░░   16.83 %
-TypeScript                 3 hrs 10 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.53 %
-Java                       2 hrs 1 min     ██░░░░░░░░░░░░░░░░░░░░░░░   08.63 %
-Bash                       1 hr 45 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.45 %
+YAML                       7 hrs 3 mins    ██████░░░░░░░░░░░░░░░░░░░   24.42 %
+Java                       5 hrs 52 mins   █████░░░░░░░░░░░░░░░░░░░░   20.33 %
+C++                        5 hrs 1 min     ████▒░░░░░░░░░░░░░░░░░░░░   17.39 %
+TypeScript                 3 hrs 16 mins   ███░░░░░░░░░░░░░░░░░░░░░░   11.35 %
+Bash                       1 hr 45 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.06 %
 ```
 
 <!--END_SECTION:waka-->
