@@ -11,11 +11,11 @@ Stats not 100% accurate because WakaTime isn't installed on all my IDEs
 <!--START_SECTION:waka-->
 
 ```txt
-Vue.js           59 mins         █████████████░░░░░░░░░░░░   51.99 %
-TypeScript       44 mins         █████████▓░░░░░░░░░░░░░░░   39.01 %
-JSON             5 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.53 %
-C++              1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.20 %
-GitIgnore file   1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.89 %
+TypeScript       4 hrs 28 mins   █████████████▒░░░░░░░░░░░   53.21 %
+CSS              2 hrs 44 mins   ████████░░░░░░░░░░░░░░░░░   32.57 %
+Vue.js           59 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.77 %
+JSON             7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.45 %
+Markdown         2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.42 %
 ```
 
 <!--END_SECTION:waka-->
