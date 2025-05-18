@@ -12,7 +12,7 @@ Stats not 100% accurate because WakaTime isn't installed on all my IDEs
 
 ```txt
 TypeScript       6 hrs 15 mins   ███████████████▒░░░░░░░░░   61.89 %
-CSS              3 hrs 4 mins    ███████▓░░░░░░░░░░░░░░░░░   30.44 %
+CSS              3 hrs 4 mins    ███████▓░░░░░░░░░░░░░░░░░   30.43 %
 JSON             16 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.78 %
 Bash             13 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.26 %
 YAML             6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.02 %
