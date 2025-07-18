@@ -11,8 +11,7 @@ Stats not 100% accurate because WakaTime isn't installed on all my IDEs
 <!--START_SECTION:waka-->
 
 ```txt
-Python   1 hr 27 mins    ██████████████████████▓░░   90.75 %
-Other    8 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.25 %
+TypeScript   0 secs          █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
