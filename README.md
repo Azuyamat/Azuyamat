@@ -11,11 +11,11 @@ Stats not 100% accurate because WakaTime isn't installed on all my IDEs
 <!--START_SECTION:waka-->
 
 ```txt
-YAML                       17 hrs 8 mins   ███████████████████████░░   91.67 %
-INI                        1 hr 3 mins     █▒░░░░░░░░░░░░░░░░░░░░░░░   05.67 %
-Markdown                   14 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.27 %
-Git Config                 8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.73 %
-Jinja2                     3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 %
+YAML                       17 hrs 5 mins   ███████████████████████▓░   94.71 %
+INI                        35 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.29 %
+Markdown                   14 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.31 %
+Jinja2                     3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 %
+Bash                       2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 %
 ```
 
 <!--END_SECTION:waka-->
