@@ -11,7 +11,11 @@ Stats not 100% accurate because WakaTime isn't installed on all my IDEs
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Kotlin       4 hrs 45 mins   ███████████████████████▓░   94.58 %
+textmate     12 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.27 %
+YAML         2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.90 %
+TypeScript   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 %
+Prisma       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
 ```
 
 <!--END_SECTION:waka-->
