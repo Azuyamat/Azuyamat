@@ -11,11 +11,11 @@ Stats not 100% accurate because WakaTime isn't installed on all my IDEs
 <!--START_SECTION:waka-->
 
 ```txt
-Kotlin       4 hrs 58 mins   ███████████████████████▓░   94.07 %
-textmate     12 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.08 %
-YAML         5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.61 %
-TypeScript   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 %
-Prisma       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
+Kotlin           11 hrs 44 mins  ███████████████████████▓░   94.68 %
+textmate         18 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.49 %
+Properties       5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.76 %
+YAML             5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.71 %
+JSON             4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.66 %
 ```
 
 <!--END_SECTION:waka-->
