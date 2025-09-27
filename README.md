@@ -11,11 +11,11 @@ Stats not 100% accurate because WakaTime isn't installed on all my IDEs
 <!--START_SECTION:waka-->
 
 ```txt
-YAML         1 hr 33 mins    █████████████████▒░░░░░░░   69.44 %
-Python       22 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.12 %
-Docker       6 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.47 %
-HTML         4 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.65 %
-TypeScript   2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.20 %
+YAML         1 hr 33 mins    █████████▓░░░░░░░░░░░░░░░   38.31 %
+Python       1 hr 3 mins     ██████▓░░░░░░░░░░░░░░░░░░   26.09 %
+Markdown     49 mins         █████░░░░░░░░░░░░░░░░░░░░   20.26 %
+Kotlin       10 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.50 %
+JSON         10 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.27 %
 ```
 
 <!--END_SECTION:waka-->
