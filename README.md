@@ -11,8 +11,7 @@ Stats not 100% accurate because WakaTime isn't installed on all my IDEs
 <!--START_SECTION:waka-->
 
 ```txt
-Markdown   33 mins         ███████████████▒░░░░░░░░░   60.68 %
-Python     21 mins         █████████▓░░░░░░░░░░░░░░░   39.32 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
