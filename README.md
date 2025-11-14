@@ -11,7 +11,11 @@ Stats not 100% accurate because WakaTime isn't installed on all my IDEs
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Go           34 mins         ██████████▒░░░░░░░░░░░░░░   41.42 %
+YAML         31 mins         █████████▒░░░░░░░░░░░░░░░   36.99 %
+Git Config   9 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.76 %
+Markdown     8 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.87 %
+Makefile     0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.88 %
 ```
 
 <!--END_SECTION:waka-->
