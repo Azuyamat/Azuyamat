@@ -11,11 +11,11 @@ Stats not 100% accurate because WakaTime isn't installed on all my IDEs
 <!--START_SECTION:waka-->
 
 ```txt
-Go           6 hrs 37 mins   █████████████████▒░░░░░░░   69.03 %
-YAML         1 hr 17 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.44 %
-TypeScript   26 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.57 %
-CSS          24 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.30 %
-Other        23 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.14 %
+Go           11 hrs 4 mins   ██████████████████▒░░░░░░   73.44 %
+YAML         1 hr 21 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.06 %
+Other        40 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.43 %
+Markdown     28 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.12 %
+TypeScript   26 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.91 %
 ```
 
 <!--END_SECTION:waka-->
