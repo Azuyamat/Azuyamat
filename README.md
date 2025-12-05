@@ -11,11 +11,9 @@ Stats not 100% accurate because WakaTime isn't installed on all my IDEs
 <!--START_SECTION:waka-->
 
 ```txt
-Go           2 hrs 38 mins   ████████████████░░░░░░░░░   64.64 %
-Other        1 hr 6 mins     ██████▓░░░░░░░░░░░░░░░░░░   27.14 %
-TOML         8 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.54 %
-Rust         6 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.50 %
-TypeScript   1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.77 %
+TOML   8 mins          █████████████▒░░░░░░░░░░░   53.54 %
+Rust   6 mins          █████████▓░░░░░░░░░░░░░░░   38.42 %
+JSON   1 min           ██░░░░░░░░░░░░░░░░░░░░░░░   08.04 %
 ```
 
 <!--END_SECTION:waka-->
