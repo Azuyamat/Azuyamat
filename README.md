@@ -11,9 +11,7 @@ Stats not 100% accurate because WakaTime isn't installed on all my IDEs
 <!--START_SECTION:waka-->
 
 ```txt
-TOML   8 mins          █████████████▒░░░░░░░░░░░   53.54 %
-Rust   6 mins          █████████▓░░░░░░░░░░░░░░░   38.42 %
-JSON   1 min           ██░░░░░░░░░░░░░░░░░░░░░░░   08.04 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
