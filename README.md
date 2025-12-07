@@ -11,7 +11,11 @@ Stats not 100% accurate because WakaTime isn't installed on all my IDEs
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+TypeScript        1 hr 34 mins    ███████████▓░░░░░░░░░░░░░   46.78 %
+CSS               39 mins         █████░░░░░░░░░░░░░░░░░░░░   19.75 %
+Go                31 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.60 %
+Other             12 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.18 %
+Bash              7 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.65 %
 ```
 
 <!--END_SECTION:waka-->
