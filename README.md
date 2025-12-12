@@ -3,9 +3,6 @@ ___
 <p align="center">
   <img alt="Github Streak Stats" src="https://streak-stats.demolab.com?user=Azuyamat&theme=transparent&hide_border=true"/>
 </p><br>
-<p align="center">
-      <strong>Portfolio</strong> https://azuyamat.com
-</p><br>
 
 Stats not 100% accurate because WakaTime isn't installed on all my IDEs
 <!--START_SECTION:waka-->
