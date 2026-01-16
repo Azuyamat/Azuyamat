@@ -4,11 +4,11 @@ Stats not 100% accurate because WakaTime isn't installed on all my IDEs
 <!--START_SECTION:waka-->
 
 ```txt
-Go                5 hrs 24 mins   ███████████████████▒░░░░░   76.94 %
-Kotlin            1 hr 18 mins    ████▓░░░░░░░░░░░░░░░░░░░░   18.69 %
-Markdown          12 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.98 %
-Text              3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.89 %
-YAML              1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.47 %
+Go                7 hrs 26 mins   ████████████████████▒░░░░   81.16 %
+Kotlin            1 hr 18 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   14.31 %
+Markdown          19 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.47 %
+Text              3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.68 %
+YAML              1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 %
 ```
 
 <!--END_SECTION:waka-->
