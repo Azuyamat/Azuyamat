@@ -4,8 +4,7 @@ Stats not 100% accurate because WakaTime isn't installed on all my IDEs
 <!--START_SECTION:waka-->
 
 ```txt
-Go         2 hrs 2 mins    ███████████████████████▓░   94.94 %
-Markdown   6 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.06 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
