@@ -4,8 +4,7 @@ Stats not 100% accurate because WakaTime isn't installed on all my IDEs
 <!--START_SECTION:waka-->
 
 ```txt
-Rust   50 mins               ████████████████████████▒   97.49 %
-Text   1 min                 ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.51 %
+Rust   12 mins               █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
